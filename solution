@@ -1,5 +1,5 @@
 def number0():
-    print("Что за приколы? Нет такой задачи)))")
+    print(" Нет такой задачи)))")
 
 def number1():
     import psutil
